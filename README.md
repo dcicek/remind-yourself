@@ -1,0 +1,2 @@
+# remind-yourself
+Hatırlatıcı uygulaması
